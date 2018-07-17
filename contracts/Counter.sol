@@ -1,4 +1,4 @@
-pragma solidity 0.4.23;
+pragma solidity ^0.4.23;
 
 contract Counter {
     // define public count variable (uint) to store number of ticks
